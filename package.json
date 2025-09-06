@@ -1,0 +1,20 @@
+{
+  "name": "smallbackend",
+  "version": "1.0.0",
+  "description": "a simple and small app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "app"
+  ],
+  "author": "soumen mukherjee",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
